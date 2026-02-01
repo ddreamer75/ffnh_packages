@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "LED Control"
+msgstr ""
+
+msgid "Configure the status LED of this device."
+msgstr ""
+
+msgid "This device does not support LED control."
+msgstr ""
+
+msgid "Status LED"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Trigger"
+msgstr ""
+
+msgid "Permanent"
+msgstr ""
+
+msgid "Timer"
+msgstr ""
+
+msgid "Timer settings"
+msgstr ""
+
+msgid "On time (ms)"
+msgstr ""
+
+msgid "Off time (ms)"
+msgstr ""
+
+msgid "Brightness (%)"
+msgstr ""
+
+msgid "0 = off, 100 = max (mapped to hardware max_brightness)."
+msgstr ""
+
+msgid "Permanent state"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Off"
+msgstr ""
