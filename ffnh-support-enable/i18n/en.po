@@ -1,9 +1,14 @@
 msgid ""
 msgstr ""
-"Language: en
-"
-"Content-Type: text/plain; charset=UTF-8
-"
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2026-01-30 12:00+0100\n"
+"Last-Translator:  <m.hertel@frefunk-nordhessen.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Title in Config Mode
 msgid "Freifunk Nordhessen Support"
