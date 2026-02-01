@@ -11,7 +11,7 @@ define Package/ffnh-led-control
   CATEGORY:=Gluon
   TITLE:=Freifunk Nordhessen LED Control Backend
   MAINTAINER:=Freifunk Nordhessen e.V. <m.hertel@freifunk-nordhessen.de>
-  DEPENDS:=+busybox +uci +jshn +jsonfilter
+  # DEPENDS:=+busybox +uci +jshn +jsonfilter
 endef
 
 define Package/ffnh-led-control/description
