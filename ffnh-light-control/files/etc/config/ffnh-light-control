@@ -1,0 +1,5 @@
+
+config led_control 'main'
+    option enabled '1'
+    option color 'auto'
+    option mode 'on'

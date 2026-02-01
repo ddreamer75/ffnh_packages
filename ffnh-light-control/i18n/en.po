@@ -1,0 +1,39 @@
+
+            msgid ""
+            msgstr ""
+            "Project-Id-Version: ffnh-light-control 1.0.0
+"
+            "Report-Msgid-Bugs-To: m.hertel@freifunk-nordhessen.de
+"
+            "Language: en
+"
+            "MIME-Version: 1.0
+"
+            "Content-Type: text/plain; charset=UTF-8
+"
+            "Content-Transfer-Encoding: 8bit
+"
+
+            msgid "LED control"
+            msgstr "LED control"
+
+            msgid "This device does not support status LED control."
+            msgstr "This device does not support status LED control."
+
+            msgid "Status LED"
+            msgstr "Status LED"
+
+            msgid "Color"
+            msgstr "Color"
+
+            msgid "Mode"
+            msgstr "Mode"
+
+            msgid "Permanently on"
+            msgstr "Permanently on"
+
+            msgid "Permanently off"
+            msgstr "Permanently off"
+
+            msgid "Automatic"
+            msgstr "Automatic"

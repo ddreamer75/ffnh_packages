@@ -1,0 +1,9 @@
+
+            #!/usr/bin/lua
+            local backend = require('ffnh-light-control.backend')
+            local ok, err = backend.apply_from_uci()
+            if not ok and err then
+              io.stderr:write((tostring(err) or "") .. "
+")
+            end
+            os.exit(ok and 0 or 1)

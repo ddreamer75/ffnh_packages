@@ -1,0 +1,12 @@
+
+            #!/bin/sh
+            [ -n "$(uci -q get ffnh-light-control.main)" ] || {
+                uci -q batch <<'EOF'
+                set ffnh-light-control.main=led_control
+                set ffnh-light-control.main.enabled='1'
+                set ffnh-light-control.main.color='auto'
+                set ffnh-light-control.main.mode='on'
+                commit ffnh-light-control
+EOF
+            }
+            /etc/init.d/ffnh-light-control enable >/dev/null 2>&1 || true

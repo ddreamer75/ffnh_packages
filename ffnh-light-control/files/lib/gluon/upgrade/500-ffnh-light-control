@@ -1,0 +1,4 @@
+
+#!/bin/sh
+# Preserve UCI config across upgrades
+/usr/lib/gluon/upgrade/keep-system-config ffnh-light-control
