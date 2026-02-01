@@ -7,7 +7,7 @@ PKG_RELEASE:=1
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 
-include $(GLUONDIR)/include/package.mk
+include $(TOPDIR)/../package/gluon.mk
 
 define Package/$(PKG_NAME)
   SECTION:=gluon
