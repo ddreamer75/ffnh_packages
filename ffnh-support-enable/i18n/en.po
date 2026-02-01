@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Language: en
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+
+# Title in Config Mode
+msgid "Freifunk Nordhessen Support"
+msgstr "Freifunk Nordhessen Support"
+
+# Description block (single joined string)
+msgid "Hier kannst Du technischen Support durch Freifunk-Nordhessen erhalten. Unsere Administratoren erhalten damit Fernzugriff auf deinen Knoten."
+msgstr "Here you can enable technical support from Freifunk Nordhessen. This allows our administrators to access your node remotely."
+
+# Checkbox/Flag
+msgid "Fernsupport zulassen"
+msgstr "Enable remote support"
