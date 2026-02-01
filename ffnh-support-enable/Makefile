@@ -6,7 +6,7 @@ PKG_RELEASE:=1
 
 PKG_BUILD_DEPENDS := gluon-config-mode-core gluon-web-model
 
-include ../gluon.mk
+include $(TOPDIR)/../package/gluon.mk
 
 define Package/ffnh-support-enable
   TITLE:=Support-Funktion für Freifunk Nordhessen
