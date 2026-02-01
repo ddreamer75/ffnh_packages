@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026
+# This file is distributed under the same license as the ffnh-support-enable package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ffnh-support-enable 1.0
+"
+"Report-Msgid-Bugs-To: 
+"
+"POT-Creation-Date: 2026-02-01 22:00+0000
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>
+"
+"Language-Team: 
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"X-Generator: M365 Copilot
+"
+
+# Title (if used elsewhere in the UI)
+msgid "Freifunk Nordhessen Support"
+msgstr ""
+
+# Description block displayed in the wizard
+msgid "Hier kannst Du technischen Support durch Freifunk-Nordhessen erhalten. Unsere Administratoren erhalten damit Fernzugriff auf deinen Knoten."
+msgstr ""
+
+# Checkbox label
+msgid "Fernsupport zulassen"
+msgstr ""

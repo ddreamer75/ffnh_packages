@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Language: de
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+
+# Beschreibungsblock
+msgid "Hier kannst Du technischen Support durch Freifunk-Nordhessen erhalten. Unsere Administratoren erhalten damit Fernzugriff auf deinen Knoten."
+msgstr "Hier kannst Du technischen Support durch Freifunk-Nordhessen erhalten. Unsere Administratoren erhalten damit Fernzugriff auf deinen Knoten."
+
+# Checkbox/Flag
+msgid "Fernsupport zulassen"
+msgstr "Fernsupport zulassen"
