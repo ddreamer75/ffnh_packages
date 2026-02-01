@@ -1,0 +1,65 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: ffnh-web-led-control 1.0.0
+"
+"Language: de
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+
+msgid "LED Control"
+msgstr "LED‑Steuerung"
+
+msgid "Configure the status LED of this device."
+msgstr "Status‑LED dieses Geräts konfigurieren."
+
+msgid "This device does not support LED control."
+msgstr "Dieses Gerät unterstützt keine LED‑Steuerung."
+
+msgid "Status LED"
+msgstr "Status‑LED"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Color"
+msgstr "Farbe"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Trigger"
+msgstr "Trigger"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Timer settings"
+msgstr "Timer‑Einstellungen"
+
+msgid "On time (ms)"
+msgstr "Einschaltdauer (ms)"
+
+msgid "Off time (ms)"
+msgstr "Ausschaltdauer (ms)"
+
+msgid "Brightness (%)"
+msgstr "Helligkeit (%)"
+
+msgid "0 = off, 100 = max (mapped to hardware max_brightness)."
+msgstr "0 = aus, 100 = max. (auf hardwareseitiges max_brightness abgebildet)."
+
+msgid "Permanent state"
+msgstr "Dauerzustand"
+
+msgid "On"
+msgstr "Ein"
+
+msgid "Off"
+msgstr "Aus"

@@ -1,0 +1,11 @@
+
+config led 'status'
+        option enabled '1'
+        option color 'auto'
+        option brightness '100'
+        option state 'off'
+        option trigger 'permanent'
+        option delay_on '500'
+        option delay_off '500'
+        # optionale globale Ausschlüsse (Shell-Globs)
+        list exclude_glob '*:*:power'
