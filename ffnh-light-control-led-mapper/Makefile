@@ -1,6 +1,6 @@
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=gluon-ffnh-light-control-led-mapper
+PKG_NAME:=ffnh-light-control-led-mapper
 PKG_VERSION:=1.0.0
 PKG_RELEASE:=1
 
