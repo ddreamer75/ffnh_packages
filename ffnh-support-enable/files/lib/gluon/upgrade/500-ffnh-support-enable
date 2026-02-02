@@ -1,5 +1,7 @@
+#!/usr/bin/lua
+
 local uci   = require('uci').cursor()
-local site  = require('gluon.site_config')
+local site  = require('gluon.site')
 
 local support_keys = site.support and site.support.ssh and site.support.ssh.keys or {}
 
